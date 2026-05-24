@@ -5,7 +5,7 @@
     "message": "Aura Launcher now supports cloud client downloads, client news, and custom launcher updates.",
     "date": "2026-05-24",
     "type": "update",
-    "image": "https://YOURNAME.github.io/aura-launcher-cloud/images/banner.png"
+    "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
     "id": "news-002",
@@ -13,6 +13,6 @@
     "message": "Aura Client 1.8.9 is now available to install and play from the launcher.",
     "date": "2026-05-24",
     "type": "client",
-    "image": "https://YOURNAME.github.io/aura-launcher-cloud/images/banner.png"
+    "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   }
 ]
