@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aura-1.8.9",
+    "name": "Aura Client 1.8.9",
+    "mc": "1.8.9",
+    "profile": "1.8.9",
+    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.8.9.zip",
+    "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
+  },
+  {
+    "id": "aura-1.12.2",
+    "name": "Aura Client 1.12.2",
+    "mc": "1.12.2",
+    "profile": "1.12.2",
+    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.12.2.zip",
+    "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
+  },
+  {
+    "id": "aura-1.16.5",
+    "name": "Aura Client 1.16.5",
+    "mc": "1.16.5",
+    "profile": "1.16.5",
+    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.16.5.zip",
+    "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
+  }
+]
