@@ -4,7 +4,7 @@
     "name": "Aura Client 1.8.9",
     "mc": "1.8.9",
     "profile": "1.8.9",
-    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.8.9.zip",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v1.8.9/aura-1.8.9.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Aura Client 1.12.2",
     "mc": "1.12.2",
     "profile": "1.12.2",
-    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.12.2.zip",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v1.12.2/aura-1.12.2.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Aura Client 1.16.5",
     "mc": "1.16.5",
     "profile": "1.16.5",
-    "url": "https://advait8370.github.io/aura-launcher-cloud/clients/aura-1.16.5.zip",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v1.16.5/aura-1.16.5.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Aura Client 1.19.4",
     "mc": "1.19.4",
     "profile": "1.19.4",
-    "url": "https://drive.usercontent.google.com/download?id=1Rk4RuAuUo1kNfZb4rVz5t6ccSe97hhru&export=download",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v1.19.4/aura-1.19.4.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Aura Client 1.21.11",
     "mc": "1.21.11",
     "profile": "1.21.11",
-    "url": "https://drive.usercontent.google.com/download?id=1NrU2M5KCBspSKYGPZUvFGExDsuHiaiC_&export=download",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v1.21.11/aura-1.21.11.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Aura Client 26.1.2",
     "mc": "26.1.2",
     "profile": "26.1.2",
-    "url": "https://drive.usercontent.google.com/download?id=1PpBA9RqHG7lpL_ch1C5DWT58jiGX9z4X&export=download",
+    "url": "https://github.com/Advait8370/aura-launcher-cloud/releases/download/v26.1.2/aura-26.1.2.zip",
     "image": "https://advait8370.github.io/aura-launcher-cloud/images/banner.png"
   }
 ]
